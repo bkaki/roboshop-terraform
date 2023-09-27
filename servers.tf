@@ -1,5 +1,3 @@
-
-
 resource "aws_instance" "frontend" {
   ami           = "ami-03265a0778a880afb"
 
